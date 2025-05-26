@@ -3,7 +3,7 @@
 🎓 I'm a Computer Science & Mathematics double major at Rutgers University  
 💻 Full-stack developer | Ethical hacking enthusiast | Music + Tech nerd  
 🌐 Creator of [SSingh.Net Music](https://ssingh.net) – a dynamic music blog powered by Node.js, MySQL, and AWS  
-🎧 DJ-in-training | 🛠 Building systems from backend to deployment
+🛠 Building systems from backend to deployment
 
 ---
 

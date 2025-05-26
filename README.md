@@ -42,7 +42,6 @@ Enhanced the functionality of a local community website using JavaScript and Wor
 
 ## 📫 Get in Touch
 
-- Email: `youremail@example.com` *(replace with your real email or use a contact form link)*
 - Website: [SSingh.net](https://ssingh.net)
 - LinkedIn: [https://www.linkedin.com/in/sumeet-singh-net]
 

@@ -20,17 +20,17 @@
 
 ## 🛠️ Notable Projects
 
-### 🎶 [SSingh.Net Music](https://ssingh.net)  
-A full-stack music blog featuring a custom RESTful API, advanced data modeling, and AWS-hosted image storage.
-
-- Tech: Node.js, Express, Pug, MySQL, AWS S3  
-- Features: Admin panel, data insertion tools, responsive UI with Bootstrap
-
 ### 🤖 AI-Powered Playlist Generator  
 Developed a microservice-based AI playlist generator that interprets natural language prompts to curate personalized music playlists.
 
 - Tech: Java, Spring Boot, Spring AI with Gemini 2.5, Spotify Web API, Docker, AWS ECS/Fargate, Next.js, React, Vercel  
 - Features: Microservice architecture with service discovery, containerized deployments, user authentication, and seamless playlist creation and export
+
+### 🎶 [SSingh.Net Music](https://ssingh.net)  
+A full-stack music blog featuring a custom RESTful API, advanced data modeling, and AWS-hosted image storage.
+
+- Tech: Node.js, Express, Pug, MySQL, AWS S3  
+- Features: Admin panel, data insertion tools, responsive UI with Bootstrap
 
 ### 🖥️ Rutgers myCommunity WordPress Enhancement  
 Maintained and enhanced a university community platform by developing custom PHP plugins and improving front-end UX with JavaScript and CSS.
